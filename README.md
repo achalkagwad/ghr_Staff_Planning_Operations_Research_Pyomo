@@ -1,0 +1,2 @@
+# ghr_Staff_Planning_Operations_Research_Pyomo
+ We have an insurance company that receives lots of claims. optimize the distribution of FTE(Full Time Employees)  vs. PTE(Part Time Employees) so that we minimize the total cost on staff in such a way that FTE are given maximum amount of work(processing of applications) and if the work allocated to FTE is full, then we will outsource the remaining work to PTE or Outsourced Vendors.
